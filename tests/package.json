@@ -62,7 +62,7 @@
     "encoding": "^0.1.13",
     "eslint": "^8.35.0",
     "eslint-webpack-plugin": "^4.0.0",
-    "follow-redirects": "^1.15.4",
+    "follow-redirects": "^1.16.0",
     "fs": "^0.0.1-security",
     "glob": "^10.3.12",
     "global-agent": "^3.0.0",
